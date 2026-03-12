@@ -8,7 +8,7 @@
 
 ### 1. Install Dependencies
 ```bash
-cd /Users/ctaylor/Documents/eisenhower-matrix-app
+cd eisenhower-matrix-app
 npm install
 ```
 

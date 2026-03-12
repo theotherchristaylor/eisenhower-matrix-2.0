@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Native macOS task management app using the Eisenhower Matrix",
   "main": "dist-electron/main/index.js",
-  "author": "Your Name",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "dev": "electron-vite dev",
